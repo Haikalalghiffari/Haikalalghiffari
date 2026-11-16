@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Haikal Alghiffari 👋</h1>
+<p align="center">
+  <img src="assets/haikal-tosca-motion.gif" alt="Animated teal banner for Haikal Alghiffari — developer workspace" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=780&lines=Mobile+Developer;Web+Developer;VR+Explorer;Currently+learning+Backend%2C+MongoDB%2C+and+Big+Data" alt="Typing animation" />
